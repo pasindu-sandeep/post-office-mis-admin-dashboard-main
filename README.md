@@ -55,7 +55,7 @@ Here are some screenshots of the Admin Dashboard of the Post-office MIS system:
 
 **Live Map:**
 
-![Live Map](https://github.com/pasindu-sandeep/post-office-mis-admin-dashboard-main/tree/main/public/image1.png)
+![Live Map](https://github.com/pasindu-sandeep/post-office-mis-admin-dashboard-main/blob/main/public/image1.png)
 
 **Employee Registration:**
 
