@@ -1,6 +1,6 @@
 # Post-office Management Information System (MIS)
 
-![Live Map](https://github.com/pasindu-sandeep/post-office-mis-admin-dashboard/blob/main/public/postoffice-mockup.png)
+![Live Map](https://github.com/pasindu-sandeep/post-office-mis-admin-dashboard/tree/main/public/postoffice-mockup.png)
 
 ## Project Overview
 
@@ -55,16 +55,16 @@ Here are some screenshots of the Admin Dashboard of the Post-office MIS system:
 
 **Live Map:**
 
-![Live Map](https://github.com/pasindu-sandeep/post-office-mis-admin-dashboard/blob/main/public/image1.png)
+![Live Map](https://github.com/pasindu-sandeep/post-office-mis-admin-dashboard-main/tree/main/public/image1.png)
 
 **Employee Registration:**
 
-![Employee Registration](https://github.com/pasindu-sandeep/post-office-mis-admin-dashboard/blob/main/public/image4.png)
+![Employee Registration](https://github.com/pasindu-sandeep/post-office-mis-admin-dashboard/tree/main/public/image4.png)
 
 **Mail Services:**
 
-![Mail Services](https://github.com/pasindu-sandeep/post-office-mis-admin-dashboard/blob/main/public/image3.png)
+![Mail Services](https://github.com/pasindu-sandeep/post-office-mis-admin-dashboard/tree/main/public/image3.png)
 
 **Postoffice Statistics:**
 
-![Postoffice Statistics](https://github.com/pasindu-sandeep/post-office-mis-admin-dashboard/blob/main/public/image2.png)
+![Postoffice Statistics](https://github.com/pasindu-sandeep/post-office-mis-admin-dashboard/tree/main/public/image2.png)
